@@ -1,6 +1,6 @@
 ### Python statistical models for analyzing functional brain networks
 
-In this repository, I included the main analysis models used to study the effects of aging and dementia severity on brain system segregation. \n
+In this repository, I included the main analysis models used to study the effects of aging and dementia severity on brain system segregation. 
 Article link: https://www.jneurosci.org/content/43/46/7879
 
 #### Required python libraries
